@@ -1,5 +1,5 @@
 ## Mocha
-
+![Mocha!](https://github.com/inesse13/Midterm-Project/blob/main/Dark-Chocolate-Mocha-Square.jpg)
 Similar to a [macchiato](https://github.com/inesse13/Midterm-Project/blob/main/macchiato.md), but this coffee drink has chocolate. Its **name is inspired by the city of Mocha, on the Red Sea coast.** In that region, the coffee beans that were produced had a light and characteristic chocolate flavor.
 
 It is the perfect drink for those of us who love coffee and at the same time are chocolate lovers!
