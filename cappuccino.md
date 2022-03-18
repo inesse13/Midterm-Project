@@ -10,3 +10,5 @@ In recent times, **designs made by expert baristas have been popularized** aroun
 The foamed milk is added so that three layers are distinguished in the cup: espresso, milk and milk cream (microfoam). The idea is that, when the client takes the cappuccino, he can taste the balance between the taste of coffee and the sweetness of the milk. In the best case, when a cappuccino is taken, it has a silky and enveloping texture resembling a dessert.
 
 Cappuccino is an *excellent* example of how a drink changes by adapting to local tastes as it can be served in a cup or a glass cup with a handle depending on the place.
+
+[Back](https://github.com/inesse13/Midterm-Project/blob/main/README.md)
